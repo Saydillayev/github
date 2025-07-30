@@ -1,0 +1,38 @@
+.div1{
+    border: 3px solid black;
+    border-radius: 16px;
+    width: 450px;
+    text-align: center;
+    background-color: aliceblue;
+}
+button{
+    background-color: black; border-radius: 20px solid black;
+    border: 20px;
+    color: aliceblue;
+}
+.div2{
+    background-color: bisque;
+    height: 100%;
+}
+img{
+    width: 270px;
+    height: 270px;
+}
+.div3{
+      border: 3px solid black;
+    border-radius: 16px;
+    width: 450px;
+    text-align: center; 
+    background-color: aliceblue;
+}
+.div4{
+    border: 3px solid black;
+    border-radius: 16px;
+    width: 450px;
+    text-align: center; 
+    background-color: aliceblue;
+    height: 450px;
+}
+body{
+    background-color: brown;
+}
